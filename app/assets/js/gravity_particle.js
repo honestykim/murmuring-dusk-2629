@@ -1,5 +1,3 @@
-console.log("Hello console");
-
 function particle_gravity($p){
     //set canvas size
     $p.size(600,300);
