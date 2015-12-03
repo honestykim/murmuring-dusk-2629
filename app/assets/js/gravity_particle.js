@@ -74,5 +74,3 @@ var canvas = document.getElementById("particle_gravity");
 
 // bind basic_bar_chart to canvas
 var p = new Processing(canvas, particle_gravity);
-
-console.log("Works!");
